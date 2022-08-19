@@ -1,0 +1,28 @@
+{
+  "name": "express-split-routes-by-files",
+  "version": "1.0.0",
+  "description": "## Summary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aybika735/express-split-routes-by-files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aybika735/express-split-routes-by-files/issues"
+  },
+  "homepage": "https://github.com/aybika735/express-split-routes-by-files#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "prettier": "^2.7.1"
+  }
+}
